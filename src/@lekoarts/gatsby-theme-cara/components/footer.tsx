@@ -36,7 +36,7 @@ const Footer = () => {
         <Link
           aria-label="Link to the theme's GitHub repository"
           sx={{ ml: 2 }}
-          href="https://github.com/mrbl/site"
+          href="https://github.com/getmrbl/site"
         >
         <img width="30" height="30" src={withPrefix(`/GitHub-Mark-64px.png`)} alt="Github Mark" />
         </Link>
