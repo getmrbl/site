@@ -18,13 +18,13 @@ const theme = merge(tailwind, {
     icon_brightest: tailwind.colors.white,
     icon_darker: tailwind.colors.gray[7],
     icon_darkest: tailwind.colors.gray[8],
-    icon_red: tailwind.colors.red[6],
-    icon_blue: tailwind.colors.blue[6],
+    icon_red: '#C92E84',
+    icon_blue: '#027373',
     icon_orange: tailwind.colors.orange[5],
     icon_yellow: tailwind.colors.yellow[5],
-    icon_pink: tailwind.colors.pink[5],
-    icon_purple: tailwind.colors.purple[6],
-    icon_green: tailwind.colors.green[5],
+    icon_pink: '#C92E84',
+    icon_purple: '#013A40',
+    icon_green: '#71C997',
     modes: {
       light: {
         text: '#71C997',
