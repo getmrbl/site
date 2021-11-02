@@ -9,12 +9,12 @@ module.exports = {
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-cara/gatsby-config.js
     siteTitle: `MRBL`,
     siteTitleAlt: `MRBL - New World`,
-    siteHeadline: `Cara - Gatsby Theme from @lekoarts`,
-    siteUrl: `https://cara.lekoarts.de`,
-    siteDescription: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
+    siteHeadline: `MRBL - New World`,
+    siteUrl: `https://getmrbl.com`,
+    siteDescription: `Rewarding high-quality content creators and consumers for the metaverse.`,
     siteLanguage: `en`,
     siteImage: `/banner.jpg`,
-    author: `@lekoarts_de`,
+    author: `@getMRBL`,
   },
   plugins: [
     {
@@ -27,9 +27,9 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Cara - @lekoarts/gatsby-theme-cara`,
-        short_name: `Cara`,
-        description: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
+        name: `MRBL - New World`,
+        short_name: `MRBL`,
+        description: `Rewarding high-quality content creators and consumers for the metaverse.`,
         start_url: `/`,
         background_color: `#141821`,
         // This will impact how browsers show your PWA/website
